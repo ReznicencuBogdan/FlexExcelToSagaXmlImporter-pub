@@ -10,7 +10,7 @@ This tool will help you extract required data from such documents using a common
 <br>
 <img src="CustomExcelToSagaXmlExporter.png" />
 
-## The template
+## Template example
 ```xml
 <Facturi sheets="Factura chitanta;date factura">
 	<Factura>
