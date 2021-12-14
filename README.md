@@ -79,7 +79,7 @@ This tool will help you extract required data from such documents using a common
 ## Xml attributes
 The tool exposes some attributes that are automatically removed after parsing and fixing to-excel-cell references.
 Such attributes are:
-* `sheets="sheet_1;sheet_2;...;sheet_n"` - must be placed on root element and defines excell sheets
+* `sheets="sheet_1;sheet_2;...;sheet_n"` - must be placed on root element and defines excel sheets
 * `sheet-id="k"`						 - cell data will be extracted from 'k' sheet in `sheets` list
 * `cell-bound="true|false"` - tag content will contain the value at specified excel cell
 * `no-spaces="true|false"`  - tag content will contain no spaces
