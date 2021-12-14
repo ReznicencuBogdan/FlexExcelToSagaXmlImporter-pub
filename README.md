@@ -85,7 +85,7 @@ Such attributes are:
 * `no-spaces="true|false"`  - tag content will contain no spaces
 * `numeric="true|false"`    - tag content will contain only numbers
 * `date="true|false"`       - tag content will be date formated
-* `join-str=""`			  - if tag content specifies multiple excell cell references separated by `;` then each cell data will be appended to the other via the attribute string unifier
+* `join-str=""`			  - if tag content specifies multiple excel cell references separated by `;` then each cell data will be appended to the other via the attribute string unifier
 
 
 
